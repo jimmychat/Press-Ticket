@@ -36,7 +36,7 @@ const useStyles = makeStyles(theme => ({
 
 	noTicketsDiv: {
 		display: "flex",
-		height: "100px",
+		height: "150px",
 		margin: 40,
 		flexDirection: "column",
 		alignItems: "center",
